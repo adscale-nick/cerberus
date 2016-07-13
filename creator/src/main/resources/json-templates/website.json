@@ -1,0 +1,13 @@
+{
+  "name": "websiteName",
+  "accountId": "1",
+  "adexEnabled": false,
+  "nuggadEnabled": false,
+  "url": "http://www.someUrl.com",
+  "whiteListedDomains": "",
+  "description": "your new website",
+  "category": "ARTS",
+  "demographicAges": ["AGE_0_TO_18", "AGE_18_TO_29", "AGE_30_TO_45", "AGE_46_TO_60", "AGE_OVER_60"],
+  "demographicGenders": ["GENDER_MMM", "GENDER_MMF", "GENDER_MF", "GENDER_FFM", "GENDER_FFF"],
+  "demographicIncomes": ["INCOME_0_TO_25K", "INCOME_25_TO_50K", "INCOME_50_TO_75K", "INCOME_OVER_75K"]
+}

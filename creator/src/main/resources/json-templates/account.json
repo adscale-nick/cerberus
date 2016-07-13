@@ -1,0 +1,26 @@
+{
+  "name": "testuser",
+  "password": "password",
+  "isSmallBusiness": false,
+  "vatNumber": "121",
+  "address": {
+    "addresseeName": "testuser",
+    "addressLine1": "123 Fake Street",
+    "addressLine2": "Riccarton",
+    "city": "Christchurch",
+    "countryCode": "DE",
+    "zip": "1234"
+  },
+  "contact": {
+    "company": "adscale",
+    "email": "all-nz@adscale.co.nz",
+    "fax": "123-456-789",
+    "firstName": "testuser",
+    "lastName": "Smith",
+    "middleName": "",
+    "phone": "987-654-321",
+    "title": ""
+  }
+}
+
+
